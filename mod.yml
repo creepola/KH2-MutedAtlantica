@@ -1,0 +1,36 @@
+title: AtlanticaMute (KH2PCPATCH)
+originalAuthor: Unknown
+description: This is an automatically generated metadata for this KH2PCPATCH Modification.
+game: kh2
+dependencies: 
+assets:
+- name: bgm\music106.win32.scd
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: bgm\music106.win32.scd
+- name: bgm\music107.win32.scd
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: bgm\music107.win32.scd
+- name: bgm\music108.win32.scd
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: bgm\music108.win32.scd
+- name: bgm\music109.win32.scd
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: bgm\music109.win32.scd
+- name: bgm\music513.win32.scd
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: bgm\music513.win32.scd
