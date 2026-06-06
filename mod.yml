@@ -28,6 +28,30 @@ assets:
   package: kh2_fifth
   source:
   - name: bgm\music109.win32.scd
+- name: bgm\music506.win32.scd
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: bgm\music506.win32.scd
+- name: bgm\music507.win32.scd
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: bgm\music507.win32.scd
+- name: bgm\music508.win32.scd
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: bgm\music508.win32.scd
+- name: bgm\music509.win32.scd
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: bgm\music509.win32.scd
 - name: bgm\music513.win32.scd
   method: copy
   platform: pc
